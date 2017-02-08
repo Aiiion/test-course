@@ -1,0 +1,29 @@
+
+     h1 {
+        text-align: center;
+        color: #3F51B5;
+        text-shadow: 2px 2px #ff0000;
+    }
+    body {
+        
+        font-family: 'Roboto'; 
+        font-size: 16px;
+        color: white;
+        
+    }
+    .bubble {
+        background-color: #3F51B5;
+        padding: 5%;
+        margin-bottom:2vh;
+    }
+    .bubble1 {
+        
+        background-color: #3F51B5;
+        padding: 5%;
+        margin-bottom:2vh;
+    }
+    a:hover{
+        color:#ff0000;
+    }
+
+
